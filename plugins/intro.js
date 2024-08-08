@@ -46,10 +46,10 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
 var surl = 'https://instagram.com/mr.vi_x_0' // Source URL
-const number = '94752799279'
+const number = '+94752799279'
 var name = ' Vihanga.xx'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://i.imgur.com/9nEfkh0.jpg'
+var image = 'https://telegra.ph/file/e3947a665144372a172aa.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
 │ Name      : ᴠɪʜᴀɴɢᴀ.xx💀☢
@@ -58,6 +58,10 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │ Age          : 22_
 │ Phone     : wa.me/94752799279
 │ Status     : ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+|Thank you for contacting📞 👇 
+|ＷＨＡＴＳＡＰＰ ＢＯＴ 
+|      ＳＥＲＶＩＣＥ!
+|Type *.menu* for commands😍🔥
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
